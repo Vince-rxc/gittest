@@ -8,6 +8,4 @@ creating a new branch is quick and simple.
 
 bug before
 
-github change
-
-github change2
+github change new
