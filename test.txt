@@ -3,5 +3,5 @@ change1
 change2
 
 Creating a new branch dev is quick.
-
+fix bug·
 creating a new branch is quick and simple.
