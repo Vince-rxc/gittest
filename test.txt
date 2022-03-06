@@ -1,3 +1,5 @@
 change1
 
 change2
+
+Creating a new branch dev is quick.
